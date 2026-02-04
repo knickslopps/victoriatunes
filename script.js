@@ -30,11 +30,11 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/Atlas_ Two.mp3",
-    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/Fix_You.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/atlas_two.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/fix_you.mp3",
     "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/human.mp3",
-    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/Midnight_Moon.mp3",
-    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/Broken_Glass.mp3"
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/midnight_moon.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/broken_glass.mp3"
   ];
 
   let bgArtworkUrl,
