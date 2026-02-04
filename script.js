@@ -30,11 +30,11 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://raw.githubusercontent.com/knickslopps/christianleetunes/main/numb_80s_remix.mp3",
-    "https://raw.githubusercontent.com/knickslopps/christianleetunes/main/pink_pony_club.mp3",
-    "https://raw.githubusercontent.com/knickslopps/christianleetunes/main/habits_stay_high.mp3",
-    "https://raw.githubusercontent.com/knickslopps/christianleetunes/main/la_familia.mp3",
-    "https://raw.githubusercontent.com/knickslopps/christianleetunes/main/the_kintsugi_kid.mp3"
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/atlas_two.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/fix_you.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/human.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/midnight_moon.mp3",
+    "https://raw.githubusercontent.com/knickslopps/victoriatunes/main/broken_glass.mp3"
   ];
 
   let bgArtworkUrl,
