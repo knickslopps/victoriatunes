@@ -26,7 +26,7 @@ $(function () {
     "coldplay",
     "christina perri",
     "oh wonder",
-    "rachel platner"
+    "rachel platten"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
